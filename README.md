@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Hako2807
-- 👀 I’m interested in mathematics and some game development
-- 🌱 I’m currently learning c++, web and AI.
+- 👀 I’m interested in physics, mathematics and some game development
+- 🌱 I’m currently learning c++, ROS, web and AI (Neural networks).
 - I´m currently studying M.Sc. Applied Physics and Mathematics at NTNU
 
 <!---
