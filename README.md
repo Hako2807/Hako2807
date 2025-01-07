@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Hako2807
-- 👀 I’m interested in physics, mathematics and some game development
-- 🌱 I’m currently learning c++, ROS, web and AI (Neural networks).
-- I´m currently studying M.Sc. Applied Physics and Mathematics at NTNU
+- I’m currently learning c++, ROS2, web and AI (Neural networks).
+- I am a student at NTNU in the M.Sc. degree in Applied Physics and Mathematics
 
 <!---
 Hako2807/Hako2807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
