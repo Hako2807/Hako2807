@@ -1,4 +1,4 @@
-- I’m currently learning c++, ROS2, web and AI (Neural networks).
+- I’m currently learning C++, ROS2, web and AI (Neural networks).
 - I am studying Applied Physics and Mathematics MSc. at NTNU (first year).
 
 <!---
