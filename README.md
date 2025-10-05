@@ -1,5 +1,5 @@
 - I’m currently learning C++, ROS2, web, cyber security and AI (Neural networks).
-- I am studying Applied Physics and Mathematics MSc. at NTNU (first year).
+- I am studying Applied Physics and Mathematics MSc. at NTNU (second year).
 
 <!---
 Hako2807/Hako2807 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
